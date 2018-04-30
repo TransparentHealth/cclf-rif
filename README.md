@@ -10,9 +10,9 @@ Resources
 * [CCLF Uses and Limitation](https://pb22817.salientcloud.com/resources/CCLF_Uses_and_Limitations_v3.pdf)
 * [Blue Button CMS CSV codeset (based on CCW)](https://github.com/CMSgov/bluebutton-csv-codesets)
 * [Excel Crosswalk]() and [CSV version]().
-* (BBAPI Inpatient Example)[https://github.com/TransparentHealth/cclf-rif/blob/master/inpatient.json]
-* (BBAPI Carrier Example)[https://github.com/TransparentHealth/cclf-rif/blob/master/carrier.json]
-* (BBAPI PDE (Pharmacy) Example)[https://github.com/TransparentHealth/cclf-rif/blob/master/pde.json]
+* [BBAPI Inpatient Example[(https://github.com/TransparentHealth/cclf-rif/blob/master/inpatient.json)
+* [BBAPI Carrier Example)[https://github.com/TransparentHealth/cclf-rif/blob/master/carrier.json)
+* [BBAPI PDE (Pharmacy) Example](https://github.com/TransparentHealth/cclf-rif/blob/master/pde.json)
 
 
 Contributing
