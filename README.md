@@ -9,7 +9,7 @@ Resources
 * [RIF -See Version K](https://www.ccwdata.org/web/guest/data-dictionaries)
 * [CCLF Uses and Limitation](https://pb22817.salientcloud.com/resources/CCLF_Uses_and_Limitations_v3.pdf)
 * [Blue Button CMS CSV codeset (based on CCW)](https://github.com/CMSgov/bluebutton-csv-codesets)
-* [Excel Crosswalk]() and [CSV version]().
+* [Excel Crosswalk](https://github.com/TransparentHealth/cclf-rif/blob/master/RIF-Medicare%20Blue%20Button_CARIN.xlsx) and [CSV version](https://github.com/TransparentHealth/cclf-rif/blob/master/bb-clf.csv).
 * [BBAPI Inpatient Example[(https://github.com/TransparentHealth/cclf-rif/blob/master/inpatient.json)
 * [BBAPI Carrier Example)[https://github.com/TransparentHealth/cclf-rif/blob/master/carrier.json)
 * [BBAPI PDE (Pharmacy) Example](https://github.com/TransparentHealth/cclf-rif/blob/master/pde.json)
