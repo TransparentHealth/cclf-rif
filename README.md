@@ -1,9 +1,7 @@
-For now this is repo is just a README with pointers to relevant aresources.
+RIF / CCLF Resources
+====================
 
-If you want to add or change this document please make either 
-
-* Make changes and submit a pull request
-* create an issue.
+This repository serves as a landing page containing pointers to relative pointers.
 
 Resources
 ---------
@@ -11,3 +9,12 @@ Resources
 * RIF: See Version K here: https://www.ccwdata.org/web/guest/data-dictionaries
 * CCLF_Uses_and_Limitation: https://pb22817.salientcloud.com/resources/CCLF_Uses_and_Limitations_v3.pdf
 * Blue Button CMS:   https://github.com/CMSgov/bluebutton-csv-codesets
+
+
+Contributing
+------------
+
+If you want to add or change this document please make either: 
+
+* Make changes and submit a pull request
+* Create an issue.
